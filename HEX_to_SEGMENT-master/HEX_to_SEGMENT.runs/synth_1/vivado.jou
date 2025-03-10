@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Sep  7 13:33:21 2024
+# Process ID: 3992
+# Current directory: C:/Users/osher/Vivado2020.1_Project/HEX_to_SEGMENT/HEX_to_SEGMENT.runs/synth_1
+# Command line: vivado.exe -log Main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Main.tcl
+# Log file: C:/Users/osher/Vivado2020.1_Project/HEX_to_SEGMENT/HEX_to_SEGMENT.runs/synth_1/Main.vds
+# Journal file: C:/Users/osher/Vivado2020.1_Project/HEX_to_SEGMENT/HEX_to_SEGMENT.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Main.tcl -notrace

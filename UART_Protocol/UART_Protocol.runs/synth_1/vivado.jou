@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Sun Feb  9 15:28:11 2025
+# Process ID         : 6819
+# Current directory  : /home/osher/VHDL/UART_Protocol/UART_Protocol.runs/synth_1
+# Command line       : vivado -log UART_Controller.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source UART_Controller.tcl
+# Log file           : /home/osher/VHDL/UART_Protocol/UART_Protocol.runs/synth_1/UART_Controller.vds
+# Journal file       : /home/osher/VHDL/UART_Protocol/UART_Protocol.runs/synth_1/vivado.jou
+# Running On         : osher
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.1 LTS
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 2419.197 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 4
+# Host memory        : 8277 MB
+# Swap memory        : 12645 MB
+# Total Virtual      : 20923 MB
+# Available Virtual  : 18647 MB
+#-----------------------------------------------------------
+source UART_Controller.tcl -notrace
